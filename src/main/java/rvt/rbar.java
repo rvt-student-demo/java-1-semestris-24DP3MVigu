@@ -27,5 +27,6 @@ public class rbar {
         System.out.println("avg " + suma / Double.valueOf(numCounter));
         System.out.println("Odd numbers: " + oddCounter);
         System.out.println("Even numbers: " + evenCounter);
+        scanner.close();
     }
 }

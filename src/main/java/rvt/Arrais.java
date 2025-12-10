@@ -1,5 +1,4 @@
 package rvt;
-import java.util.Arrays;
 import java.util.Scanner;
 import java.util.ArrayList;
 
@@ -35,10 +34,10 @@ public class Arrais {
     vardi.add(vards);
     }
     System.out.println("Tavs vārdu skaits ir: " + vardi.size());
+    scanneri.close();
+}
+}
 
-}
-}
-    public static void third_arra (String[] args);
     
 
 
